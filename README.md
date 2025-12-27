@@ -93,9 +93,7 @@ To measure IN or Isc
 Vi (volts)	IN (amps)
 	![5 7](https://github.com/user-attachments/assets/6ede1c14-a37c-4ec6-a775-95960fe74293)
 
-**MODEL CALCULATION:**
 
-Practical value of IL (from tabulation 1) =2.3mA
 
 **Verification of Norton’s theorem**
 
